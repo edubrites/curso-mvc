@@ -1,7 +1,7 @@
 {
-    "name":"curso-son/mvc",
+    "name":"son/mvc",
     "require":{
-        "version": ">=5.6"
+        "php": ">=5.6"
     },
     "authors":
     [
