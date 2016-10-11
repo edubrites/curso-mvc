@@ -1,0 +1,19 @@
+{
+    "name":"curso-son/mvc",
+    "require":{
+        "version": ">=5.6"
+    },
+    "authors":
+    [
+        {
+            "name":"Eduardo Brites",
+            "email":"egbrites@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "SON\\":"vendor/SON",
+            "App\\":"App/"
+        }
+    }
+}
